@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipes app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revinsider/forkify-app.git"
+  },
+  "author": "revinsider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revinsider/forkify-app/issues"
+  },
+  "homepage": "https://github.com/revinsider/forkify-app#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
